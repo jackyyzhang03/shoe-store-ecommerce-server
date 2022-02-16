@@ -1,0 +1,140 @@
+{
+  "shoes": [
+    {
+      "productId": 1,
+      "name": "Nike Air Force 1 '07 LV8",
+      "priceInCents": 17000,
+      "colour": "Flax",
+      "availableColours": [
+        {
+          "name": "Flax",
+          "displayColour": "#987654",
+          "productId": 1
+        },
+        {
+          "name": "White",
+          "displayColour": "#E5E5E5",
+          "productId": 2
+        },
+        {
+          "name": "Grey",
+          "displayColour": "#D3D3D3",
+          "productId": 3
+        }
+      ],
+      "sizes": [7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "availableSizes": [7, 8, 10, 11, 12, 13, 14, 15],
+      "widths": ["Medium", "Large"],
+      "availableWidths": ["Large"],
+      "images": [
+        "https://images.footlocker.com/is/image/EBFL2/4104212_a1?wid=519&hei=519&fmt=png-alpha"
+      ]
+    },
+    {
+      "productId": 2,
+      "name": "Nike Air Force 1 '07 LV8",
+      "priceInCents": 17000,
+      "colour": "White",
+      "availableColours": [
+        {
+          "name": "Flax",
+          "displayColour": "#987654",
+          "productId": 1
+        },
+        {
+          "name": "White",
+          "displayColour": "#E5E5E5",
+          "productId": 2
+        },
+        {
+          "name": "Grey",
+          "displayColour": "#D3D3D3",
+          "productId": 3
+        }
+      ],
+      "sizes": [7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "availableSizes": [9, 11],
+      "widths": ["Medium", "Large"],
+      "availableWidths": ["Medium", "Large"],
+      "images": ["https://images.footlocker.com/is/image/EBFL2/4100997_a1?wid=519&hei=519&fmt=png-alpha"]
+    },
+    {
+      "productId": 3,
+      "name": "Nike Air Force 1 '07 LV8",
+      "priceInCents": 12000,
+      "colour": "Grey",
+      "availableColours": [
+        {
+          "name": "Flax",
+          "displayColour": "#987654",
+          "productId": 1
+        },
+        {
+          "name": "White",
+          "displayColour": "#E5E5E5",
+          "productId": 2
+        },
+        {
+          "name": "Grey",
+          "displayColour": "#D3D3D3",
+          "productId": 3
+        }
+      ],
+      "sizes": [7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "availableSizes": [11, 12, 13, 14, 15],
+      "widths": ["Medium", "Large"],
+      "availableWidths": ["Medium"],
+      "images": [
+        "https://images.footlocker.com/is/image/EBFL2/41017477_a1?wid=519&hei=519&fmt=png-alpha"
+      ]
+    },
+    {
+      "productId": 4,
+      "name": "Nike Air Max 270",
+      "priceInCents": 21000,
+      "colour": "White",
+      "availableColours": [
+        {
+          "name": "White",
+          "displayColour": "#E5E5E5",
+          "productId": 4
+        },
+        {
+          "name": "Black",
+          "displayColour": "#000000",
+          "productId": 5
+        }
+      ],
+      "sizes": [7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "availableSizes": [7, 8, 10, 11, 12, 13, 14, 15],
+      "widths": ["Medium", "Large"],
+      "availableWidths": ["Large"],
+      "images": [
+        "https://images.footlocker.com/is/image/EBFL2/4205645_a1?wid=519&hei=519&fmt=png-alpha"
+      ]
+    },
+    {
+      "productId": 5,
+      "name": "Nike Air Max 270",
+      "priceInCents": 17000,
+      "colour": "Black",
+      "availableColours": [
+        {
+          "name": "White",
+          "displayColour": "#E5E5E5",
+          "productId": 4
+        },
+        {
+          "name": "Black",
+          "displayColour": "#000000",
+          "productId": 5
+        }
+      ],
+      "sizes": [7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "availableSizes": [9, 11],
+      "widths": ["Medium", "Large"],
+      "availableWidths": ["Medium", "Large"],
+      "images": ["https://images.footlocker.com/is/image/EBFL2/4205587_a1?wid=519&hei=519&fmt=png-alpha"]
+    }
+  ]
+}
